@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Zhiqiang Zang! Learn more about me at [https://cptgit.github.io](https://cptgit.github.io).
+:wink: I am Zhiqiang Zang! Learn more about me [here](https://cptgit.github.io).
 
 [![CptGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=CptGit&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
