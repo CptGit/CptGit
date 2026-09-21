@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 :wink: I am Zhiqiang Zang! Learn more about me [here](https://zzqpro.net).
 
-[![CptGit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CptGit&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CptGit's GitHub stats](https://github-stats-extended.vercel.app/api?username=CptGit&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
